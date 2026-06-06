@@ -162,11 +162,11 @@ Nabd addresses the growing challenges faced by healthcare institutions:
 
 ## 📁 Repositories
 
-| Project | Tech | Repository | Branch |
-|---------|------|------------|--------|
-| 🔧 **Backend API** | ASP.NET Core · MSSQL | [Nabd-System/Backend-API](https://github.com/Mootaaz-aly/Nabd) | `main` |
-| 🌐 **Frontend** | React.js · TypeScript · Tailwind | [Nabd-System/Frontend](https://github.com/AmnaZaher/Login-page-Hospital) | `main` |
-| 📱 **Mobile App** | Flutter · Dart | [Nabd-System/Mobile](https://github.com/ahmed24E/nabd) | `master` |
+| Project | Tech | Repository |
+|---------|------|------------|
+| 🔧 **Backend API** | ASP.NET Core · MSSQL | [Nabd-System/Backend-API](https://github.com/Mootaaz-aly/Nabd) | 
+| 🌐 **Frontend** | React.js · TypeScript · Tailwind | [Nabd-System/Frontend](https://github.com/AmnaZaher/Login-page-Hospital) | 
+| 📱 **Mobile App** | Flutter · Dart | [Nabd-System/Mobile](https://github.com/ahmed24E/nabd) | 
 
 ---
 
