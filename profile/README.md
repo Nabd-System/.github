@@ -172,19 +172,29 @@ Nabd addresses the growing challenges faced by healthcare institutions:
 
 ## 👨‍💻 Team
 
-| Name |
-|------|
-| Mootaaz Mohamed | 
-| Mohamed Hesham  |
-| Mohamed Ali     |
-| Ahmed Eid       |
-| Areej Shawky    |
-| Amna Zaher      |
-| Hana Serag      |
-| Mai Assad       |
-| Sara Magdy      |
-| Tasneem Nehad   |
+| Name | Team|
 
+|------|---------------|
+
+| Mootaaz Mohamed | BackEnd |
+
+| Mohamed Hesham |  BackEnd |
+
+| Mohamed Ali |  BackEnd |
+
+| Ahmed Eid | Flutter |
+
+| Areej Shawky |  BackEnd |
+
+| Amna Zaher |  FrontEnd|
+
+| Hana Serag |  BackEnd |
+
+| Mai Assad | FrontEnd  |
+
+| Sara Magdy | Ui/Ux |
+
+| Tasneem Nehad | FrontEnd|
 ---
 
 
