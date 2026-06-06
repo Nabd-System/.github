@@ -172,8 +172,8 @@ Nabd addresses the growing challenges faced by healthcare institutions:
 
 ## 👨‍💻 Team
 
-| Name | Specialization |
-|------|---------------|
+| Name |
+|------|
 | Mootaaz Mohamed | 
 | Mohamed Hesham  |
 | Mohamed Ali     |
